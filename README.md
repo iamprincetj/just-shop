@@ -26,6 +26,10 @@
 
    scan the QR code provided by running the `npm run start` above
 
-# App Screenshot
-   ![just-shop-ss](https://github.com/iamprincetj/just-shop/assets/117754115/f3bc914c-6c0e-4401-b7f6-1efe677aad3c)
+# App Screenshot | Home Page
 
+![just-shop-ss](https://github.com/iamprincetj/just-shop/assets/117754115/f3bc914c-6c0e-4401-b7f6-1efe677aad3c)
+
+# App Screenshot | Checkout Succeccful Page
+
+![Success-page](./assets/success.jpg)
